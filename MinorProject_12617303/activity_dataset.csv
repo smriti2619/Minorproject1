@@ -1,0 +1,38 @@
+Date,Sleep (min),Fitness (min),Study (min),Coding (min),Class (min),Classes Attended,Other Activities (min),Total Tracked (min),Free/Unaccounted (min),Day's Feeling,Satisfaction Level,Energy Level,Notes,f_score,s_score,e_score
+2026-08-15,430,20,190,45,,,190,875,565,good,neutral,medium,Weekend study and self-learning session.,4,3,2.0
+2026-08-16,450,30,120,80,,,250,930,510,good,neutral,medium,Self-study and project practice at home.,4,3,2.0
+2026-08-17,440,25,100,90,250.0,5.0,90,995,445,neutral,satisfied,medium,Attended regular classes and revised lecture notes.,3,4,2.0
+2026-08-18,400,35,190,100,350.0,7.0,100,1175,265,good,satisfied,low,Heavy class schedule; completed assignment despite low energy.,4,4,1.0
+2026-08-19,500,30,200,90,200.0,4.0,60,1080,360,neutral,neutral,medium,Standard routine with self-study and lab practice.,3,3,2.0
+2026-08-20,410,30,250,120,250.0,5.0,90,1150,290,neutral,neutral,medium,Focused on coding and preparing for upcoming assessments.,3,3,2.0
+2026-08-21,450,20,150,90,300.0,6.0,100,1110,330,neutral,neutral,medium,Productive day with continuous study and coding tasks.,3,3,2.0
+2026-08-22,500,45,230,120,,,90,985,455,low,neutral,medium,Spent time on project work and self-study.,2,3,2.0
+2026-08-23,480,30,270,90,,,60,930,510,good,satisfied,medium,Productive weekend revision and coding practice.,4,4,2.0
+2026-08-24,500,20,150,60,250.0,5.0,60,1040,400,good,satisfied,medium,Good balance of regular classes and self-study.,4,4,2.0
+2026-08-25,450,30,90,45,350.0,7.0,60,1025,415,neutral,neutral,low,Long class day with low energy; reviewed key concepts later.,3,3,1.0
+2026-08-26,500,25,120,90,200.0,4.0,50,985,455,good,satisfied,medium,Normal pace day with class lectures and coding practice.,4,4,2.0
+2026-08-31,400,0,60,60,250.0,5.0,30,800,640,low,very unsatisfied,low,Low energy day; light revision performed.,2,1,1.0
+2026-09-01,500,30,150,90,350.0,7.0,45,1165,275,good,satisfied,medium,Full schedule with 7 classes; focused on coding in evening.,4,4,2.0
+2026-09-02,500,20,190,60,200.0,4.0,30,1000,440,good,neutral,medium,Attended classes and revised daily course content.,4,3,2.0
+2026-09-03,500,30,180,90,300.0,6.0,45,1145,295,good,satisfied,medium,Good focus during lectures and post-class study session.,4,4,2.0
+2026-09-04,520,20,160,120,250.0,5.0,25,1095,345,good,neutral,medium,Finished class assignments and worked on coding practice.,4,3,2.0
+2026-09-07,520,25,190,90,250.0,5.0,90,1165,275,good,satisfied,medium,regular class day with consistent self-study.,4,4,2.0
+2026-09-08,490,25,120,90,350.0,7.0,60,1135,305,good,satisfied,medium,Busy schedule with full attendance and homework completion.,4,4,2.0
+2026-09-09,490,30,190,120,200.0,4.0,60,1090,350,neutral,neutral,low,Moderate study pace; revised core concepts.,3,3,1.0
+2026-09-10,470,15,90,60,300.0,6.0,90,1025,415,low,unsatisfied,medium,,2,2,2.0
+2026-09-11,480,20,190,90,250.0,5.0,80,1110,330,neutral,neutral,medium,Tough day with low focus; caught up on essential study material.,3,3,2.0
+2026-09-12,550,25,230,150,,,90,1045,395,excellent,very satisfied,high,Highly productive weekend; focused on self-study and coding.,5,5,3.0
+2026-09-13,550,20,250,160,,,50,1030,410,excellent,very satisfied,high,Great progress on personal projects and study schedule.,5,5,3.0
+2026-09-14,480,25,190,90,250.0,5.0,60,1095,345,good,satisfied,medium,Attended daily lectures and organized notes.,4,4,2.0
+2026-09-15,470,20,200,120,350.0,7.0,80,1240,200,good,neutral,medium,Long session of classes followed by evening coding practice.,4,3,2.0
+2026-09-16,480,25,150,90,200.0,3.0,60,1005,435,neutral,neutral,medium,Balanced day with light classes and revision.,3,3,2.0
+2026-09-17,480,25,180,100,300.0,6.0,60,1145,295,good,satisfied,medium,Balanced day with light classes and revision.,4,4,2.0
+2026-09-18,500,20,160,90,250.0,5.0,75,1095,345,good,neutral,medium,Completed study and coding practice.,4,3,2.0
+2026-09-19,540,30,220,150,,,90,1030,410,excellent,very satisfied,high,Weekend study and coding practice.,5,5,3.0
+2026-09-20,550,20,240,160,,,60,1030,410,excellent,very satisfied,high,Good progress on academic work.,5,5,3.0
+2026-09-21,480,25,190,100,300.0,6.0,70,1165,275,good,satisfied,medium,Attended classes and revised topics.,4,4,2.0
+2026-09-22,470,20,170,110,350.0,7.0,55,1175,265,good,satisfied,medium,Busy class day with coding practice.,4,4,2.0
+2026-09-23,490,25,200,120,250.0,5.0,80,1165,275,neutral,neutral,medium,Moderate workload today.,3,3,2.0
+2026-09-24,460,15,120,70,300.0,6.0,100,1065,375,low,unsatisfied,low,Tiring day with less study time.,2,2,1.0
+2026-09-25,500,25,210,130,200.0,4.0,90,1155,285,good,satisfied,medium,Improved productivity during the day.,4,4,2.0
+2026-09-26,530,30,230,150,,,80,1020,420,excellent,very satisfied,high,Weekend learning and revision.,5,5,3.0

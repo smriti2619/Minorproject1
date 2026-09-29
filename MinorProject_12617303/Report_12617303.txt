@@ -1,0 +1,50 @@
+Student Details
+Student Name: Smriti Kumari
+Registration / Roll No.: 12617303
+Program / Section: D1P2633
+Activity Recording Period: 15 August 2026 to 26 September 2026
+Date of Report Generation: 27 September 2026
+
+1. Activity Data Summary
+Expected number of days: 45
+Valid days recorded: 37
+Missing days: 8
+Invalid / excluded records: 0
+Average Sleep/day: 484.05
+Average Fitness/day: 24.46
+Average Study/day: 176.22
+Average Coding/day: 99.46
+Average Class/day: 271.43
+Average Other Activities/day: 77.16
+Average Free / Unaccounted Time/day: 373.24
+
+2. Index Values
+Tech Productivity (TPI): 99.46 min/day
+Academic Activity (AAI): 447.65 min/day
+Physical Activity (PhAI): 24.46 min/day
+Sleep & Recovery (SRI): 484.05 min/day
+Activity Balance (ABI): 373.24 min/day
+Time Utilization (TUI): 1066.76 min/day
+Experience Index (EI): 3.07 / 5
+Data Continuity Index (DCI): 82.22 %
+Personal Activity Index (PAI): 369.36
+
+3. Key Findings from My Data
+1) Coding <-> Energy | Days with higher coding time (e.g. 150-160 mins on Sept 12-13, Sept 19-20) consistently aligned with 'Excellent' feelings and 'High' energy levels, indicating I enjoy programming tasks.
+2) Classes <-> Sleep | Heavy class days (e.g. 350 mins on Aug 18 and Aug 25) were followed by reduced sleep (400-450 mins) and 'Low' energy levels.
+3) Study <-> Satisfaction | When self-study crossed 200 mins (like Aug 22, Sept 25), my end-of-day satisfaction was always 'Satisfied' or 'Very Satisfied'.
+4) Weekends <-> Productivity | On non-class days (weekends), my Free/Unaccounted time barely went up because I substituted class hours perfectly with extra study and coding (e.g. 1155 tracked mins on Sept 25).
+5) Fitness <-> Sleep | Days with high physical fitness (30-45 mins) were exclusively days where I managed 500+ minutes of sleep, showing a direct link between rest and physical motivation.
+
+4. Findings About Myself
+Analyzing my 37 tracked days, it is evident that I have a very intense academic routine. I average an immense 447 minutes (over 7 hours) per day on academic activities (classes + self-study) and nearly 100 minutes purely on coding.
+My overall Time Utilization Index is over 1066 minutes, meaning my days are highly structured with very little wasted time (Free time is just 373 minutes, mostly used for meals and commute). 
+However, this heavy workload takes a toll on my energy; my Experience Index is only 3.07/5. On days with heavy classes (350 mins), I visibly struggle, recording 'Low' energy and missing fitness entirely. 
+Conversely, on weekends when I control my own schedule, I consistently rate my days as 'Excellent' and have 'High' energy, despite doing just as much work (coding and self-study). 
+My sleep averages around 8 hours (484 mins), which is healthy, but my physical activity is quite low at 24 minutes a day. 
+
+5. Areas and Ways to Improve My Lifestyle
+Based on my data, my biggest area for improvement is stress management during heavy class days and maintaining physical activity. My fitness drops to almost 0 on days with 300+ minutes of classes.
+To counter this, I plan to introduce a strict 20-minute morning yoga routine, ensuring my physical health doesn't get pushed aside by academic fatigue later in the day. Secondly, I need to take better care of my mental energy during the week. 
+Since I enjoy coding and it gives me 'High' energy, I should schedule a 30-minute light coding or project-building session right after heavy classes as a "cool down" activity, rather than jumping straight into stressful textbook studying.
+Finally, with a Data Continuity Index of 82.22% (8 missing days), I need to set a strict daily alarm at 9:30 PM to log my tracker so I don't miss any entries going forward.
